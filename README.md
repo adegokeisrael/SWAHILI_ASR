@@ -1,4 +1,10 @@
 # Fine-Tuning Whisper (Medium) for Swahili ASR 🇹🇿🎙️  
+
+![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
+![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-orange)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-Transformers-yellow)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 **Automatic Speech Recognition (ASR) adaptation using Mozilla Common Voice v17**
 
 > **Project Type:** Small Machine Learning Experiment (Fine-tuning + Evaluation)  
